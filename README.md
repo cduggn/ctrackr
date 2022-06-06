@@ -17,7 +17,7 @@ go get github.com/cduggn/ctrackr
 
 #### Create Client 
 
-Create a new instance of BrokerService by passing in your Coinbase Api Key and Secret. Credentials should be kept secure at all times. [godotenv](https://github.com/joho/godotenv) or similar can be used to load credentials from a environment file.
+Create a new instance of BrokerService by passing in your Coinbase Api credentials. [godotenv](https://github.com/joho/godotenv) or similar can be used to load credentials from a environment file.
 
 >**Note**: Do not store credentials in source control. 
 
