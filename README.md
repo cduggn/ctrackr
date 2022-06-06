@@ -1,6 +1,6 @@
 # cTracker
 
-A `Go` library which supports fetching transaction history from the [Coinbase API](https://developers.coinbase.com/). The application supports the [API key Authentication method](https://developers.coinbase.com/docs/wallet/api-key-authentication).
+A `Go` library which supports fetching transaction history from the [Coinbase API](https://developers.coinbase.com/). The application supports the [API key Authentication method](https://developers.coinbase.com/docs/wallet/api-key-authentication). * Experimental use only.
 
 ## Prerequisites
 
